@@ -1,5 +1,5 @@
 # crack_geetest
-geetest cracker
+nebulas testnet claim geetest cracker
 
 ## dependency
 webdriver selenium
